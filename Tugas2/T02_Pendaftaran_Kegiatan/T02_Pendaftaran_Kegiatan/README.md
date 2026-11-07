@@ -1,18 +1,30 @@
-## Getting Started
+# Tugas 02 - Pendaftaran Kegiatan
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Informasi Project
+- Mata Kuliah: Praktikum Pemrograman II
+- Bahasa Pemrograman: Java
+- GUI: Java Swing
+- Package: p09
+- Main Class: Main.java
+- Navigasi: CardLayout
 
-## Folder Structure
+## Fitur Aplikasi
+1. Formulir pendaftaran kegiatan.
+2. Validasi nama, email, umur, dan kegiatan.
+3. Menampilkan ringkasan pendaftaran.
+4. Navigasi menggunakan CardLayout.
+5. Tombol Reset.
+6. Tombol Kembali.
+7. Halaman Bantuan.
+8. Konfirmasi sebelum keluar.
 
-The workspace contains two folders by default, where:
+## Cara Menjalankan
+1. Buka project melalui VS Code.
+2. Buka src/p09/Main.java.
+3. Klik Run pada bagian atas method main.
+4. Aplikasi akan menampilkan halaman formulir.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Teknologi
+- Java JDK
+- Java Swing
+- Visual Studio Code
